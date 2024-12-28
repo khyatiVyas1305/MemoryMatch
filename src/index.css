@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500&family=Quicksand:wght@300..700&family=Raleway:wght@300;400;500;600;700&display=swap');
+
+
+/* base styles */
+body {
+  font-family: Quicksand, Oswald,sans-serif;
+  margin: 0;
+  font-size: 1.5em;
+  text-align: center;
+  background: #6a8a6e;
+  color: #fff;
+}
